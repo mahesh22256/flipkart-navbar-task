@@ -1,0 +1,59 @@
+
+*{
+    padding: 0px;
+    margin: 0;
+}
+.navDiv{
+    display: flex;
+    background-color: blue;
+    justify-content:center;
+    align-items: center;
+    padding: 10px; 
+}
+
+ .navSec p{
+    color: white;
+    position: relative;
+ }
+ 
+  .SearchBar input{
+    width: 400px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+  }
+  .SubProperty{
+    color: yellow;
+    font-weight: 900;
+ }
+ .SearchBar{
+    background-color: white;
+    padding: 8px;
+    width: 420px;
+    height: 20px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color:blue;
+    border-radius: 3px;
+ }
+ .flip{
+    margin: 0px 25px;
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+}
+
+.ButtonLogin{
+    padding: 8px 45px;
+    font-size: 20px;
+    font-weight: 600px;
+    border: none;
+    outline: none;
+    color: blue;
+    background-color: white;   
+}
+
+
+
+  
